@@ -31,19 +31,7 @@ export default class Header extends Component {
               I am someone that loves challenges and working hard.
               {
                   /*
-                  <br/>
-                  <br/>
-                  <br/>
-                  <br/>
-                  <br/>
-                  <br/>
-                  <br/>
-                  <br/>
-                  <br/>
-                  <br/>
-                  <br/>
-                  <br/>
-                  <br/>
+
                   I have a passion for learning and applying my knowledge to solve complex problems.
 
                   Majority of my experience is in C/C++, Java, Python and JavaScript.
