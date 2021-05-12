@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/meLandscape.jpeg ) no-repeat top center;
+   background: #161415 url(../images/me/meLandscape.jpeg ) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -105,7 +105,7 @@ header .social li a:hover { color: #11ABB0; }
 /* scrolldown link */
 header .scrolldown a {
    position: absolute;
-   bottom: 10px;
+   bottom: 25px;
    left: 50%;
    margin-left: -29px;
    color: #fff;

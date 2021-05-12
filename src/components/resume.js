@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import Skills from './Skills';
-import Skills_new from './Skills_new';
 
-export default class Header extends Component {
+export default class Resume extends Component {
   render() {
     return (
       <section id="resume">
@@ -171,9 +170,6 @@ export default class Header extends Component {
 
         {
             //<Skills />
-            /*
-            <Skills_new />
-            */
         }
 
       </section>

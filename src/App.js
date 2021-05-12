@@ -3,8 +3,7 @@ import Header from './components/header';
 import About from './components/about';
 import Resume from './components/resume';
 import Portfolio from './components/portfolio';
-import NewPortfolio from './components/portfolio_new';
-import Skills from './components/Skills_new';
+import Skills from './components/Skills';
 import Testimonials from  './components/testimonials';
 import ContactUs from './components/contactus';
 import Footer from './components/footer';
@@ -24,10 +23,7 @@ class App extends Component {
       <About />
       <Resume />
       <Skills />
-      {
-        //<Portfolio />
-      }
-      <NewPortfolio />
+      <Portfolio />
       <ContactUs />
       <Footer />
 

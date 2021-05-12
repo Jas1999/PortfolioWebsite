@@ -9,8 +9,8 @@ export default class Header extends Component {
                 <div className="row">
                   <div className="twelve columns">
                     <ul className="social-links">
-                      <li><a href="#"><i className="fa fa-github" /></a></li>
-                      <li><a href="#"><i className="fa fa-linkedin" /></a></li>
+                        <li><a href="https://github.com/Jas1999"><i className="fa fa-github" /></a></li>
+                        <li><a href="https://www.linkedin.com/in/jasman-sahi-649018154/"><i className="fa fa-linkedin" /></a></li>
                     </ul>
 
                   </div>

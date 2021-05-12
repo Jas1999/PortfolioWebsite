@@ -7,7 +7,7 @@ export default class AboutMe extends Component {
 
           <div className="row">
             <div className="three columns">
-              <img class="round-pic" src="images/methinking.jpeg" alt="" />
+              <img class="round-pic" src="images/me/methinking.jpeg" alt="" />
             </div>
             <div className="nine columns main-col">
               <h2>About Me</h2>
@@ -53,13 +53,14 @@ export default class AboutMe extends Component {
                     <h2>Contact Details</h2>
                     <p className="address">
                         <span>Jasman Singh Sahi</span><br />
+                        <span>647-773-2477</span><br />
                         <span>jasman.singh.sahi@gmail.com</span>
                     </p>
                 </div>
 
                 <div className="columns download">
                   <p>
-                    <a href="ResumedataVer.pdf" className="button"><i className="fa fa-download" />Download Resume</a>
+                    <a href="CurrentResume_4Ace.pdf" className="button"><i className="fa fa-download" />Download Resume</a>
                   </p>
                 </div>
               </div> {/* end row */}

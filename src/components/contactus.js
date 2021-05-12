@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-export default class Header extends Component {
+export default class Contact extends Component {
   render() {
     return (
         <section id="contact">
@@ -26,20 +26,20 @@ export default class Header extends Component {
 
                     */
                 }
-
+            <br/>
             <p className="lead">
             It is possible to get in touch with me with the following methods
             </p>
             <div className="twelve columns main-col">
 
                 <div className="row item">
-
-                    <div class="column large-12 medium-6 tab-12">
+                    <br/>
+                    <div class="column large-12 medium-6">
                         <h1> Email </h1>
                         <h2> <a href="mailto:jasman.singh.sahi@gmail.com"> jasman.singh.sahi@gmail.com </a> </h2>
                     </div>
 
-                    <div class="column large-12 medium-6 tab-12">
+                    <div class="column large-12 medium-6">
                         <h1> Phone </h1>
                         <h2> <a href="tel:6477732477">  647-773-2477 </a> </h2>
                     </div>
