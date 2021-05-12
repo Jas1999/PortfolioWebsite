@@ -24,17 +24,27 @@ export default class Header extends Component {
           </nav> {/* end #nav-wrap */}
           <div className="row banner">
             <div className="banner-text">
-              <br/>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
+
               <h1 className="responsive-headline">I'm Jasman Singh Sahi</h1>
               <h3>
-              I am a 4A Computer engineering student at the University of Waterloo.
-              I have a passion for learning and applying my knowledge to solve complex problems.
+              I am a 4th year Computer engineering student at the University of Waterloo.
+              I am someone that loves challenges and working hard.
               {
                   /*
+                  <br/>
+                  <br/>
+                  <br/>
+                  <br/>
+                  <br/>
+                  <br/>
+                  <br/>
+                  <br/>
+                  <br/>
+                  <br/>
+                  <br/>
+                  <br/>
+                  <br/>
+                  I have a passion for learning and applying my knowledge to solve complex problems.
 
                   Majority of my experience is in C/C++, Java, Python and JavaScript.
                   --
@@ -49,7 +59,7 @@ export default class Header extends Component {
               </h3>
               <hr />
               <ul className="social">
-                <li><a href="https://github.com/Jas1999"><i className="fa fa-github" /></a></li>
+              <li><a href="https://github.com/Jas1999"><i className="fa fa-github" /></a></li>
                 <li><a href="https://www.linkedin.com/in/jasman-sahi-649018154/"><i className="fa fa-linkedin" /></a></li>
                 {
                     /*
