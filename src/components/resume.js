@@ -65,7 +65,7 @@ export default class Resume extends Component {
              <div className="row item">
                <div className="twelve columns">
                  <h3>Nuclear Promise X</h3>
-                 <p className="info">Nuclear Software Developer <span>•</span> <em className="date">March 2007 - February 2010</em></p>
+                 <p className="info">Nuclear Software Developer <span>•</span> <em className="date">January 2020 - April 2020</em></p>
                  <p style={{textAlign:"left"}}>
                  Nuclear Promise X was a startup that is attempting to update practices in the nuclear industry.
                  Most of my tasks were related to full-stack web applications, depending on the requirements of the client (mainly Bruce Power) or Nuclear Promise X
@@ -87,7 +87,7 @@ export default class Resume extends Component {
              <div className="row item">
                <div className="twelve columns">
                  <h3>National Bank Financial</h3>
-                 <p className="info">Electronic Trading IT Analyst <span>•</span> <em className="date">March 2007 - February 2010</em></p>
+                 <p className="info">Electronic Trading IT Analyst <span>•</span> <em className="date">May 2019 - August 2019</em></p>
                  <p style={{textAlign:"left"}}>
 
                  For this coop I worked on at the TMX location on the floor with the traders.
@@ -112,7 +112,7 @@ export default class Resume extends Component {
              <div className="row item">
                 <div className="twelve columns">
                     <h3>Waterloop Design team</h3>
-                    <p className="info">Electrical Team Member<span>•</span> <em className="date">March 2007 - February 2010</em></p>
+                    <p className="info">Electrical Team Member<span>•</span> <em className="date">January 2019 - April 2019</em></p>
                     <p style={{textAlign:"left"}}>
                     I was apart of the electrical team on waterloo hyperloop design team.
                     In this role I used Eagle to create schematics and board layout for an aruino shield that would be used in the pod.
@@ -128,7 +128,7 @@ export default class Resume extends Component {
              <div className="row item">
                 <div className="twelve columns">
                     <h3>TD Bank</h3>
-                    <p className="info">Automation Controller/Access Analyst <span>•</span> <em className="date">March 2007 - February 2010</em></p>
+                    <p className="info">Automation Controller/Access Analyst <span>•</span> <em className="date">September 2018 - December 2018</em></p>
                     <p style={{textAlign:"left"}}>
                     During this coop I was on the automation team at TD bank. In this role I created a database in Microsoft Accesses using SQL and VBA to set up a system
                     to log process changes improving communication for the team, along with this I worked on automating banking tasks and scheduling using Python and BluePrism.
@@ -146,7 +146,7 @@ export default class Resume extends Component {
              <div className="row item">
                <div className="twelve columns">
                  <h3>National Research Council Canada</h3>
-                 <p className="info"> Application Developer <span>•</span> <em className="date">March 2007 - February 2010</em></p>
+                 <p className="info"> Application Developer <span>•</span> <em className="date">January 2018 - April 2018</em></p>
                  <p style={{textAlign:"left"}}>
                  Developed an web application using HTML, CSS, and JavaScript(jQuery and Bootstrap) which displayed information to be monitored.
                  Additional I used MySQL and Java to aid in backend developed by setting up queries and creating Java Classes to store information.

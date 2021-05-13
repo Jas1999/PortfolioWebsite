@@ -60,7 +60,7 @@ export default class AboutMe extends Component {
 
                 <div className="columns download">
                   <p>
-                    <a href="CurrentResume_4Ace.pdf" className="button"><i className="fa fa-download" />Download Resume</a>
+                    <a href="CurrentResume_4A.pdf" className="button"><i className="fa fa-download" />Download Resume</a>
                   </p>
                 </div>
               </div> {/* end row */}
