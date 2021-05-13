@@ -34,7 +34,7 @@ header {
    min-height: 500px;
    width: 100%;
    background: #161415 url(../images/me/Beach.jpeg ) no-repeat;
-   background-position:  center 25%;
+   background-position: center 25%;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -212,6 +212,10 @@ ul#nav li.current a { color: #F06000; }
    margin-bottom: 12px;
 }
 
+#about span {
+   color: #fff;
+}
+
 #about h3 {
    font: 22px/30px 'opensans-bold', sans-serif;
    color: #fff;
@@ -223,11 +227,13 @@ ul#nav li.current a { color: #F06000; }
    color: #7A7A7A;
 
 }
+/*
+width: 300px;
+height: 300px;
+*/
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
-   border-radius: 100%;
+   border-radius: 5%;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
@@ -238,6 +244,7 @@ ul#nav li.current a { color: #F06000; }
 #about .download .button {
    margin-top: 6px;
    background: #444;
+
 }
 #about .download .button:hover {
    background: #fff;

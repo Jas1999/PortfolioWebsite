@@ -7,14 +7,14 @@ export default class AboutMe extends Component {
 
           <div className="row">
             <div className="three columns">
-              <img class="round-pic" src="images/me/methinking.jpeg" alt="" />
+              <img class="profile-pic" src="images/me/methinking.jpeg" alt="" />
             </div>
             <div className="nine columns main-col">
               <h2>About Me</h2>
               <p>
                 I am a Computer engineering student at the University of Waterloo, graduating in 2022.
                 I would describe myself as someone that enjoys a challenge.
-                 From both project and work experiences I have noticed that the harder the task
+                From both project and work experiences I have noticed that the harder the task
                 the more I enjoy working on it and thinking it through.
                 That being said I am someone that likes to be efficient by reducing the amount of work I
                 have to do.
@@ -38,10 +38,11 @@ export default class AboutMe extends Component {
               <p style={{textAlign:"left"}}>
               Other than Coding I have various interests such as video games, cars, watches and movies/shows:
               <br/>
-              For example I am currently plaing God of War and Red Dead Redemption 2 <br/>
-              My current dream car is either a F8 Tributo or a 911 GT3 RS <br/>
-              Favorite Movies at the moment: Inglorious Bastards and The Departed <br/>
-              Favorite Shows at the moment: Dragon Ball Z and The Mandalorin
+              For example: <br/>
+              <span>•</span> I am currently plaing God of War and Red Dead Redemption 2 <br/>
+              <span>•</span> My current dream car is either a F8 Tributo or a 911 GT3 RS <br/>
+              <span>•</span> Favorite Movies at the moment: Inglorious Bastards and The Departed <br/>
+              <span>•</span> Favorite Shows at the moment: Dragon Ball Z and The Mandalorin
 
 
               </p>
@@ -52,9 +53,9 @@ export default class AboutMe extends Component {
                 <div className="columns contact-details">
                     <h2>Contact Details</h2>
                     <p className="address">
-                        <span>Jasman Singh Sahi</span><br />
-                        <span>647-773-2477</span><br />
-                        <span>jasman.singh.sahi@gmail.com</span>
+                        Jasman Singh Sahi<br />
+                        647-773-2477<br />
+                        jasman.singh.sahi@gmail.com
                     </p>
                 </div>
 
