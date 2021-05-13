@@ -10,7 +10,8 @@
    b. Header Styles
    c. About Section
    d. Resume Section
-   e. Portfolio Section
+        -> skills section subpoint
+   e. Portfolio Section # projects
    f. Call To Action Section
    g. Testimonials Section
    h. Contact Section
@@ -115,7 +116,7 @@ header .scrolldown a {
    margin-left: -29px;
    color: #fff;
    display: block;
-   height: 22px;
+   height: 2px;
    width: 42px;
    font-size: 42px;
    line-height: 42px;
@@ -313,7 +314,7 @@ height: 300px;
 /*---Skills---*/
 #skills {
    background: #fff;
-   padding-top: 10px;
+   padding-top: 40px;
    padding-bottom: 82px;
    overflow: hidden;
    text-align: center;
