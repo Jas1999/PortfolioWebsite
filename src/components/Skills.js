@@ -21,7 +21,7 @@ const style = {
 export default function skills () {
 
         var Language = ["C/C++","Python","Java","JavaScript","Lua","SQL/MySQL/SQLite","NoSql"];
-        var Technologies = ["Eclipse","Nodejs","Reactjs","Flask","Firebase","Mangodb","Docker","MatLab","Git","PowerBI","BluePrism","Access/Excel Macros", "Hadoop/Spark"];
+        var Technologies = ["Eclipse","Nodejs","Reactjs","Flask","Firebase","Mangodb","Docker","MatLab","Git","PowerBI","BluePrism","Access/Excel Macros", "Hadoop/Spark","Kafka", "ZooKeeper"];
 
         return (
           <section id="skills">
@@ -31,6 +31,7 @@ export default function skills () {
             <div className="three columns header-col">
               <h1><span>Skills</span></h1>
             </div>
+            <br/>
             <div className="nine columns main-col">
                 <p>
                 Through projects, coops and courses I have aquired experience with various technologies and language
@@ -38,6 +39,7 @@ export default function skills () {
                 </p>
             </div> {/* main-col end */}
             <h3>Languages</h3>
+            <br/>
             <Grid container spacing={3}>
 
             {Language.map(name => (
@@ -48,9 +50,8 @@ export default function skills () {
 
             </Grid>
             <br/>
-
             <h4>Technologies</h4>
-
+            <br/>
             <Grid container spacing={3}>
 
             {Technologies.map(name => (
