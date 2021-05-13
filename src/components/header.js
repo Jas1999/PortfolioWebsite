@@ -27,10 +27,13 @@ export default class Header extends Component {
 
               <h1 className="responsive-headline">I'm Jasman Singh Sahi</h1>
               <h3>
-              I am a 4th year Computer engineering student at the University of Waterloo.
-              I am someone that loves challenges and working hard.
+              I am a 4th year Computer engineering student at the University of Waterloo
+              with a strong drive and love of challenges.
               {
                   /*
+
+                  I am a 4th year Computer engineering student at the University of Waterloo.
+                  I am someone that loves challenges and working hard.
 
                   I have a passion for learning and applying my knowledge to solve complex problems.
 

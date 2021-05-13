@@ -14,13 +14,10 @@ export default class AboutMe extends Component {
               <p>
                 I am a Computer engineering student at the University of Waterloo, graduating in 2022.
                 I would describe myself as someone that enjoys a challenge.
-                From both project and work experiences I have noticed that the harder the task
-                the more I enjoy working on it and thinking it through.
-                That being said I am someone that likes to be efficient by reducing the amount of work I
-                have to do.
-
-
-
+                Throughout my career, I’ve developed a interest in tasks that challenge me to think in new ways and advance my skills.
+                The more difficult the task, the more I enjoy working on it and thinking it through
+                From both project and work experiences I have noticed that the harder the task.
+                That being said I like to plan efficiently to reduce the amount of work I have to do while still getting the best possible outcome.
                 <br />
                 <br />
 
@@ -36,10 +33,10 @@ export default class AboutMe extends Component {
 
               <h3>Other Interests </h3>
               <p style={{textAlign:"left"}}>
-              Other than Coding I have various interests such as video games, cars, watches and movies/shows:
+              Besides Coding and Technology, I have various interests such as video games, cars, watches and movies/shows:
               <br/>
               For example: <br/>
-              <span>•</span> I am currently plaing God of War and Red Dead Redemption 2 <br/>
+              <span>•</span> I am currently playing God of War and Red Dead Redemption 2 <br/>
               <span>•</span> My current dream car is either a F8 Tributo or a 911 GT3 RS <br/>
               <span>•</span> Favorite Movies at the moment: Inglorious Bastards and The Departed <br/>
               <span>•</span> Favorite Shows at the moment: Dragon Ball Z and The Mandalorin
