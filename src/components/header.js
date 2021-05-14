@@ -57,7 +57,7 @@ export default class Header extends Component {
                     <li><a href="https://www.instagram.com/jasmansinghsahi/?hl=en"><i class="fa fa-instagram"></i></a></li>
                     */
                 }
-
+                <br/>
               </ul>
             </div>
           </div>
