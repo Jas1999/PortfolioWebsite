@@ -10,7 +10,8 @@
    b. Header Styles
    c. About Section
    d. Resume Section
-   e. Portfolio Section
+        -> skills section subpoint
+   e. Portfolio Section # projects
    f. Call To Action Section
    g. Testimonials Section
    h. Contact Section
@@ -31,7 +32,7 @@ body { background: #0f0f0f; }
 header {
    position: relative;
    height: 900px;
-   min-height: 500px;
+   min-height: 600px;
    width: 100%;
    background: #161415 url(../images/me/Beach.jpeg ) no-repeat;
    background-position: center 25%;
@@ -110,12 +111,12 @@ header .social li a:hover { color: #11ABB0; }
 /* scrolldown link */
 header .scrolldown a {
    position: absolute;
-   bottom: 25px;
+   bottom: 30px;
    left: 50%;
    margin-left: -29px;
    color: #fff;
    display: block;
-   height: 22px;
+   height: 42px;
    width: 42px;
    font-size: 42px;
    line-height: 42px;
@@ -313,7 +314,7 @@ height: 300px;
 /*---Skills---*/
 #skills {
    background: #fff;
-   padding-top: 10px;
+   padding-top: 40px;
    padding-bottom: 82px;
    overflow: hidden;
    text-align: center;
