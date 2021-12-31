@@ -20,8 +20,8 @@ const style = {
 
 export default function skills () {
 
-        var Language = ["C/C++","Python","Java","JavaScript","Lua","SQL/MySQL/SQLite","NoSql"];
-        var Technologies = ["Eclipse","Nodejs","Reactjs","Flask","Firebase","Mangodb","Docker","MatLab","Git","PowerBI","BluePrism","Access/Excel Macros"];
+  var Language = ["C/C++","Python","Java","JavaScript","Lua","SQL/MySQL/SQLite","NoSql"];
+    var Technologies = ["Eclipse","Nodejs","Reactjs","Flask","Firebase","Mongodb","Docker","MatLab","Git","PowerBI","BluePrism","Access/Excel Macros", "Hadoop/Spark","Kafka", "ZooKeeper"];
 
         return (
           <section id="skills">
