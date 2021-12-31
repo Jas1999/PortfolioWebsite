@@ -2,6 +2,11 @@
 
 Portfolio website created with the Ceevee template that was converted to reactjs
 
+## local deployment
+  - npm i
+  - npm start
+  - package using npm run build
+
 resources used:
 
 template used: https://themeui.net/ceevee-free-personal-cv-html-website-template/
