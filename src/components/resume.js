@@ -27,7 +27,9 @@ export default class Resume extends Component {
                     Numerical Methods,
                     Probability theory and statistics,
                     Real time Operating Systems,
-                    Reinforced Learning
+                    Reinforced Learning,
+                    Programming for Performance, 
+                    Autonomous vehicles,
                     and
                     System Programming and Concurrency
 
@@ -42,6 +44,29 @@ export default class Resume extends Component {
              <h1><span>Work</span></h1>
            </div>
            <div className="nine columns main-col">
+            <div className="row item">
+                <div className="twelve columns">
+                  <h3>Canada Startup Company</h3>
+                  <p className="info">Full-Stack Developer <span>•</span> <em className="date">Sept 2021 - Dec 2021</em></p>
+                  <p  style={{textAlign:"left"}}>
+
+                    Canada Startup Company helps develops startup ideas and develops MVPs, while working there I worked on three different projects. 
+                    For each of these projects I built a functioning MVP using a varying set of skills along with containerizing them with Docker.
+                    The first was a moblie application for in-depth restaurant review which was built using React Native, Flask and MongoDB.
+                    The second project was a blockchain project for storing medical records, so doctors and patients could access records quickly and easily along with making it possible for patients to have their complete medical record 
+                    stored securely on a private blockchain. This was developed using Hyperledger Fabric with ChainCode smart contacts and a Nodejs API along with Firebase Real-Time Database for offchain storage. 
+                    The third project was a email plugin for generating automatic custom replies. This was developed using Pytorch to fine-tune the BERT pre-trained model to classify emails with NLP techniques and then respond using customer information which was stored in SQL.
+  
+                  {/*
+                      • Created a React Native Mobile Application with MongoDB and Flask for an in-depth restaurant review application
+                      • Built a private blockchain solution for storing and distributing records using Hyperledger Fabric with NodeJs and ChainCode
+                      • Developed an email plugin to generate automatic responses using Pytorch to fine-tune BERT to categorize emails and SQL to store client information
+                      • Communicated project functionality and market fit with executives from various departments
+
+                  */}
+                  </p>
+                </div>
+              </div> {/* item end */}
              <div className="row item">
                <div className="twelve columns">
                  <h3>Cognizantly inc.</h3>

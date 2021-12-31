@@ -37,7 +37,7 @@ export default class Header extends Component {
     Details: `The goal of this project was to make a webapp to limit the amount of time I spend on my phone. Along with improving my Reactjs and Flask skills.
     So using the reddit and open weather API I fetched the information from the frontend to display and have open in the background.
     To limit looking at my phone for reddit and the weather I made a webapp with Reactjs and Flask.`},
-    {title: "Internet analysis",
+    {title: "Internet Analysis",
     Details:  `This was a group project in my database systems course . I was responsible for the data science component since it was group based.
     In this I aided in designing and implementing an Entity-Relationship  model in 3nf normalization for internet traffic datasets from Kaggle in MySQL.
     Analyzed data in Jupyter notebook looking at the correlation and generating questions of what to ask the data. Using the data given I setup a classification for detecting
@@ -45,12 +45,23 @@ export default class Header extends Component {
     {title: "X and Y Plotter",
     Details:  ` Project created for a project course that taught hardware design skills using a TI MSP430 Launchpad board. Using diptrace created a schematic and PCB design for custom IO.
      Then solidered parts on to it and wrote the code for the project in C. Project taught me how to solider, debug hardware issues and how to design a piece of hardward.`},
-    {title: "Personal Gaming Computer",
+    
+    {title: "Deep Reinforced Learning For Pong and a Maze (ECE493 Assignment)",
+    Details:
+     `Implemented and tested with the following models Actor-Critic, DQN, Q-Learning and Sarsa on the game 
+     Pong volley game (Environment created with starter code) and a custom maze environment, which was done 
+     using the OpenAI Baseline Library.` 
+
+    },
+    {title: "Django Todo app",
+    Details:
+     "Django + ReactJS todo app expanded on tutorial and code up on github"
+    },
+     {title: "Personal Gaming Computer",
     Details:
      `My first project and the one that led me to be interested in technology.
     Specs: CPU: intel 4790 i7 GPU: 780 6GBRAM: 16 GB DDR3 Storage: 500 GB ssd + 250 GB ssd`,
-
-    Extra: "Favorite PC games: Asseto coursa, Total War Shogun 2, Witcher"
+    Extra: "Favorite PC games: Asseto coursa, Total War Shogun 2, Witcher 3"
 
     },
     {title: "Logisitics Mobile Applicaiton ",
@@ -58,6 +69,15 @@ export default class Header extends Component {
     for tracking driver loads and truck metrics, we are still working on the features and are planning on using Google Firebase for the backend.`},
     ]
 
+    /*
+    
+    {title: "ECE454: Distributed Computing Projects",
+    Details:
+     "ECE 454 Assignments: \r\n" + " A1 Thrift RPC, setup frontend and backend layers for load balancing Bcrypt key derivation function A2 Spark and Hadoop to organize movie data A3 Apache ZooKeeper, determine replicas and detecting crashes, for key-value service A4 Kafka Streams process messages and output, pub sub model"
+
+    },
+    
+    */
     return (
       <section id="portfolio">
 
