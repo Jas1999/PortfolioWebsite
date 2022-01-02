@@ -2,10 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Resources used for the website:
 
-template used: https://themeui.net/ceevee-free-personal-cv-html-website-template/
-ReacjsTheme used: https://material-ui.com/
-https://magic.reactjs.net/htmltojsx.htm
-https://medium.com/@svinkle/publish-and-share-your-own-website-for-free-with-github-2eff049a1cb5
+template used: https://themeui.net/ceevee-free-personal-cv-html-website-template/<br />
+ReacjsTheme used: https://material-ui.com/<br />
+https://magic.reactjs.net/htmltojsx.htm<br />
+https://medium.com/@svinkle/publish-and-share-your-own-website-for-free-with-github-2eff049a1cb5<br />
 
 ## Available Scripts
 
