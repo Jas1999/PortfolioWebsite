@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Resources used for the website:
+
+template used: https://themeui.net/ceevee-free-personal-cv-html-website-template/
+ReacjsTheme used: https://material-ui.com/
+https://magic.reactjs.net/htmltojsx.htm
+https://medium.com/@svinkle/publish-and-share-your-own-website-for-free-with-github-2eff049a1cb5
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -66,3 +73,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+
