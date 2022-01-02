@@ -50,11 +50,11 @@ export default class Resume extends Component {
                   <p className="info">Full-Stack Developer <span>•</span> <em className="date">Sept 2021 - Dec 2021</em></p>
                   <p  style={{textAlign:"left"}}>
 
-                    Canada Startup Company helps develops startup ideas and develops MVPs, while working there I worked on three different projects. 
-                    For each of these projects I built a functioning MVP using a varying set of skills along with containerizing them with Docker.
+                    Canada Startup Company develops MVPs for startups and aids in establishing ideas. 
+                    While working here I developed 3 functioning MVPs with varying technology stacks and containerizing them with Docker.
                     The first was a moblie application for in-depth restaurant review which was built using React Native, Flask and MongoDB.
-                    The second project was a blockchain project for storing medical records, so doctors and patients could access records quickly and easily along with making it possible for patients to have their complete medical record 
-                    stored securely on a private blockchain. This was developed using Hyperledger Fabric with ChainCode smart contacts and a Nodejs API along with Firebase Real-Time Database for offchain storage. 
+                    The second project was a blockchain project for storing medical records, so doctors and patients could access records quickly and have them stored securely.
+                    This was developed using Hyperledger Fabric with ChainCode smart contacts and a Nodejs API along with Firebase Real-Time Database for offchain storage. 
                     The third project was a email plugin for generating automatic custom replies. This was developed using Pytorch to fine-tune the BERT pre-trained model to classify emails with NLP techniques and then respond using customer information which was stored in SQL.
   
                   {/*
