@@ -8,6 +8,7 @@ https://magic.reactjs.net/htmltojsx.htm<br />
 https://medium.com/@svinkle/publish-and-share-your-own-website-for-free-with-github-2eff049a1cb5<br />
 
 ## Available Scripts
+- if you want to publish changes, put the build under the gh-pages branch
 
 In the project directory, you can run:
 
