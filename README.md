@@ -7,6 +7,12 @@ ReacjsTheme used: https://material-ui.com/<br />
 https://magic.reactjs.net/htmltojsx.htm<br />
 https://medium.com/@svinkle/publish-and-share-your-own-website-for-free-with-github-2eff049a1cb5<br />
 
+## deployment steps:
+- npm start (local deployment)
+- npm run build(update build)
+- npm run deploy (build and setup path for updating branch)
+  - Then Push code
+
 ## Available Scripts
 - if you want to publish changes, put the build under the gh-pages branch
 
@@ -20,10 +26,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `npm run deploy`
+run deploy for the build and to update the other gh-pages branch-
 
 ### `npm run build`
 
